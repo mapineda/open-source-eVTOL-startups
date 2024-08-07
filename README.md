@@ -1,6 +1,6 @@
 # Open Source List of eVTOL Startups 🚁 :helicopter:
 
-electric Vertical Take-Off and Landing (eVTOL) concepts!
+Ever evolving list of electric Vertical Take-Off and Landing (eVTOL) concepts!
 
 * A³ Vahana
 * Aerofex
